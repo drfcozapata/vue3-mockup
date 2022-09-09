@@ -15,7 +15,6 @@ This mockup was created to help started developing with Vue 3 in Vite. The templ
 - Tailwind CSS 3.1.8
 - PostCSS 8.4.16
 - SASS 1.54.9
-- Vite SVG Loader 3.6 (for easier SVG import)
 
 ## Project Setup
 
